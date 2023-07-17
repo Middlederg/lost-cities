@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exploradores.Core", "Exploradores.Core\Exploradores.Core.csproj", "{9176DE96-27A2-408C-A623-FCCFB106DDDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exploradores.Forms", "Exploradores.Forms\Exploradores.Forms.csproj", "{9B301652-B18D-408A-8CAB-A0697C9E44E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9176DE96-27A2-408C-A623-FCCFB106DDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9176DE96-27A2-408C-A623-FCCFB106DDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9176DE96-27A2-408C-A623-FCCFB106DDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9176DE96-27A2-408C-A623-FCCFB106DDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B301652-B18D-408A-8CAB-A0697C9E44E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B301652-B18D-408A-8CAB-A0697C9E44E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B301652-B18D-408A-8CAB-A0697C9E44E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B301652-B18D-408A-8CAB-A0697C9E44E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B557EB-F56F-4A6F-92BF-5F05C7450DCB}
+	EndGlobalSection
+EndGlobal
